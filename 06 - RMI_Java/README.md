@@ -1,17 +1,5 @@
 # 🛰️ RMI em Java
 
-## 📘 Sumário
-
-- [💡 O que é RMI](#-o-que-é-rmi)
-- [⚙️ Como funciona](#️-como-funciona)
-- [🧩 Fluxo resumido](#-fluxo-resumido)
-- [🧩 Componentes Principais](#-componentes-principais)
-- [💻 Estrutura do Projeto](#-estrutura-do-projeto)
-- [⚖️ Vantagens e Limitações](#️-vantagens-e-limitações)
-- [🧠 Conclusão](#-conclusão)
-
----
-
 ## 💡 O que é RMI
 
 **RMI (Remote Method Invocation)** é uma tecnologia do Java que permite que um programa execute métodos de objetos que estão em outra **JVM (Java Virtual Machine)** — inclusive em outro computador.  
